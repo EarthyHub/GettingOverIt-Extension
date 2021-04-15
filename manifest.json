@@ -1,0 +1,14 @@
+{
+    "name": "GettingOverIt",
+    "short_name": "GOI",
+    "version": "1.0",
+    "manifest_version": 2,
+
+    "description": "Scratch Getting Over It",
+
+    "browser_action": {
+        "default_icon": "logo.jpg",
+        "default_title": "GettingOverIt",
+        "default_popup": "popup.html"
+    }
+}
